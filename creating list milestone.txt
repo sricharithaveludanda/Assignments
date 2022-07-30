@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>HTML Ordered List</title>
+</head>
+<body>
+    <h2>HTML Ordered List</h2>
+	<ol>
+        <li>Fasten your seatbelt</li>
+        <li>Starts the car's engine</li>
+        <li>Look around and go</li>
+    </ol>
+    <hr>
+<html lang="en">
+<head>
+    <title>HTML Unordered List</title>
+</head>
+<body>
+    <h2>HTML Unordered List</h2>
+	<ul>
+        <li>Chocolate Cake</li>
+        <li>Black Forest Cake</li>
+        <li>Pineapple Cake</li>
+    </ul>
+	<hr>
+	<html lang="en">
+<head>
+    <title>HTML Definition List</title>
+</head>
+<body>
+    <h2>HTML Definition List</h2>
+	<dl>
+        <dt>Bread</dt>
+        <dd>A baked food made of flour.</dd>
+        <dt>Coffee</dt>
+        <dd>A drink made from roasted coffee beans.</dd>
+    </dl>
+</body>
+</html>
+<hr>
+<html lang="en">
+<head>
+    <title>Change Bullet Type in an HTML Unordered List Using CSS</title>
+  <p><big>circle attribute</big></p>
+    <style>
+        ul {
+            list-style-type: circle;
+        }
+    </style>
+</head>
+<body>
+    <ul>
+        <li>Chocolate Cake</li>
+        <li>Black Forest Cake</li>
+        <li>Pineapple Cake</li>
+    </ul>
+</body>
+</html>
+<hr>
+<html lang="en">
+<head>
+    <title>using square attribute</title>
+	<p><big>square attribute</big></p>
+    <style>
+        ul {
+            list-style-type: square;
+        }
+    </style>
+	</head>
+<body>
+
+    <ul>
+        <li>Chocolate Cake</li>
+        <li>Black Forest Cake</li>
+        <li>Pineapple Cake</li>
+    </ul>
+</body>
+</html>
+<hr>
+<html lang="en">
+<head>
+    <title>using start attribute</title>
+</head>
+<p><big>start attribute</big></p>
+<body>
+    <ol start="10">
+        <li>Mix ingredients</li>
+        <li>Bake in oven for an hour</li>
+        <li>Allow to stand for ten minutes</li>
+    </ol>
+</body>
+</html>
